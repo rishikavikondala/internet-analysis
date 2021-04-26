@@ -1,7 +1,6 @@
 import React from "react";
 import { useFetch } from "./hooks/useFetch";
 import Plot from 'react-plotly.js';
-// https://observablehq.com/@jermspeaks/async-await
 
 const About = () => {
   return (
